@@ -1,0 +1,29 @@
+.header {
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+}
+
+.header .title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.mainContent{
+    margin: 20px;
+}
+
+.box{
+    width: 196px;
+    background: white;
+    display: block;
+    position: relative;
+    border: 1px solid grey;
+    height: 200px;
+    top: -1px;
+}
+
+.uploadedImg{
+    width: 195px;
+    height: 198px;
+}
